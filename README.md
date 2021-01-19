@@ -1,6 +1,8 @@
-# Webpack Starter
-
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
+# TodoList
+Este proyecto te permite: 
+  * Añadir tareas
+  * Marcar como completada alguna tarea
+  * Eliminar tareas
 
 ### Notas:
 
@@ -14,4 +16,9 @@ npm install
 
 ```
 npm run build
+```
+3- Corerlo en un servidor
+
+```
+npm start
 ```
