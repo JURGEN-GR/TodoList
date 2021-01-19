@@ -6,18 +6,18 @@ Este proyecto te permite:
 
 ### Notas:
 
-1- Recosntruir los modulos de node
+1- Reconstruir los módulos de node
 
 ```
 npm install
 ```
 
-2- Contruir el build
+2- Construir el build
 
 ```
 npm run build
 ```
-3- Corerlo en un servidor
+3- Correrlo en un servidor
 
 ```
 npm start
