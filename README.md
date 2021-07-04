@@ -6,6 +6,7 @@ Este es un proyecto realizado durante el curso de "JavaScript Moderno: Guía par
 * HTML5
 * CSS3
 * JavaScript
+* WebPack
 
 **No es responsive**
 
