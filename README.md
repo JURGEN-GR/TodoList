@@ -11,7 +11,7 @@ Este es un proyecto realizado durante el curso de "JavaScript Moderno: Guía par
 
 Puedes verlo aqui -> https://jurgen-gr.github.io/TodoList/
 
-Este proyecto te permite: 
+## Este proyecto te permite: 
   * Añadir tareas
   * Marcar como completada alguna tarea
   * Eliminar tareas
